@@ -46,7 +46,7 @@ Microphone → [capture] → gain × boost → noise gate → ring buffer → [p
 Build dari source:
 
 ```bash
-git clone <repo-ini>
+git clone https://github.com/Lnnaaa/VoiceLab
 cd voicelab
 cargo build --release
 ```
