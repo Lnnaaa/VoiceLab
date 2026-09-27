@@ -51,7 +51,7 @@ cd voicelab
 cargo build --release
 ```
 
-Atau download langsung dari folder `target\release\voicelab.exe`.
+Atau download langsung dari [Release](https://github.com/Lnnaaa/VoiceLab/releases/download/v0.1.1/VoiceLab.exe)
 
 > **Catatan:** Butuh Visual C++ Redistributable. Download di: https://aka.ms/vs/17/release/vc_redist.x64.exe
 
